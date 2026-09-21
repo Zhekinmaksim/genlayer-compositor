@@ -60,3 +60,10 @@ included in the immutable policy hash.
 Verify inter-contract reads with upstream contracts in the same Studio network.
 Offline tests use a proxy mock, so deployment alone does not prove a live
 composite evaluation.
+
+## Deployment
+
+- GitHub: https://github.com/Zhekinmaksim/genlayer-compositor
+- Studio contract: https://explorer-studio.genlayer.com/address/0xd7347AFBe443540cFfC8BeF3e38A35D5ca0a52d9
+- Deploy transaction: https://explorer-studio.genlayer.com/tx/0x7b22b8dd9282c7dd3ad3fdd8c76eb89da8e544d246078ed6112937ef2d9bc044
+- Deployed source commit: `7f8e4e78ff8193a3db195915e4a17dd240abc3fd`
